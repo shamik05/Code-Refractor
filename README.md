@@ -1,12 +1,14 @@
 # Homework-01---Code-Refractor
+
 Bootcamp Homework 01 - Code Refractor
 
 Description:
 An assignment similar to what junior developers might encounter. The aim is take an existing webpage's code and refactoring it have greater accessibility.
 
-Example: 
+Example:
 A sample of existing code
-<!-- <div class="header">
+
+<div class="header">
         <h1>Hori<span class="seo">seo</span>n</h1>
         <div>
             <ul>
@@ -21,10 +23,11 @@ A sample of existing code
                 </li>
             </ul>
         </div>
-    </div> -->
+</div>
 
-Code Refracted 
-<!-- <header>
+Code Refracted
+
+<header>
         <h1>Hori<span class="seo">seo</span>n</h1>
         <nav>
             <ul>
@@ -39,19 +42,17 @@ Code Refracted
                 </li>
             </ul>
         </nav>
-    </header> -->
+</header>
 
 Programs/Techniques Used:
 Visual Studio Code was used to work with the html and css files. Coding was done using the DRY principle while confirming to the acceptance criteria. A general list of changes done:
+
 1. HTML code replaced by semantic elements
 2. Fixed broken link
 3. Updated title
 4. Added alt tags
 5. Group CS stylings to prevent repetition
-6. Commented code to bring readability and meaning  
+6. Commented code to bring readability and meaning
 
 How to Use:
 View the index.html and style.css pages
-
-
-
