@@ -8,7 +8,7 @@ An assignment similar to what junior developers might encounter. The aim is take
 Example:
 A sample of existing code
 
-<div class="header">
+div class="header">
         <h1>Hori<span class="seo">seo</span>n</h1>
         <div>
             <ul>
@@ -23,11 +23,11 @@ A sample of existing code
                 </li>
             </ul>
         </div>
-</div>
+</div
 
 Code Refracted
 
-<header>
+header>
         <h1>Hori<span class="seo">seo</span>n</h1>
         <nav>
             <ul>
@@ -42,7 +42,7 @@ Code Refracted
                 </li>
             </ul>
         </nav>
-</header>
+</header
 
 Programs/Techniques Used:
 Visual Studio Code was used to work with the html and css files. Coding was done using the DRY principle while confirming to the acceptance criteria. A general list of changes done:
